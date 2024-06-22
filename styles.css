@@ -160,3 +160,11 @@ main {
     margin: 100px 350px 100px 350px;
     padding: 50px 130px 50px 130px;
 }
+
+#footer{
+    background-color: #1f2937;
+    padding: 2em;
+    text-align: center;
+    font-size: 18px;
+    color: #F9FAF8;
+}
