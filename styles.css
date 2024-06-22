@@ -1,0 +1,26 @@
+#navbar {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 1rem;
+    list-style-type: none;
+    background-color: #1F2937;
+}
+
+#navbar .text {
+    margin-right: 250px;
+}
+
+#navbar .logo {
+    margin-right: auto;
+    margin-left: 250px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
