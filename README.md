@@ -7,7 +7,7 @@
 
 ## ✨ Motivação
 
-Desenvolver um site basico utilizando apenas HTML e CSS
+Desenvolver um site basico utilizando apenas HTML e CSS, com intuito de aprender a utilizar o Flexbox. Vale mencionar que não houve a preocupação de lidar com a responsividade da página.
 
 ## 🏆 Agradecimentos
 
